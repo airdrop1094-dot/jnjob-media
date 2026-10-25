@@ -1,0 +1,14 @@
+{
+  "card": "no-049",
+  "type": "carousel",
+  "slides": 5,
+  "files": [
+    "no-049-01.jpg",
+    "no-049-02.jpg",
+    "no-049-03.jpg",
+    "no-049-04.jpg",
+    "no-049-05.jpg"
+  ],
+  "width": 1080,
+  "height": 1350
+}
